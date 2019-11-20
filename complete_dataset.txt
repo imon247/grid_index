@@ -1,0 +1,1 @@
+Complete dataset please find at: http://snap.stanford.edu/data/loc-gowalla.html

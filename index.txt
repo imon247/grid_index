@@ -1,0 +1,100 @@
+Cell 0, 0: 1_0.0_0.0 
+Cell 0, 1: 
+Cell 0, 2: 
+Cell 0, 3: 
+Cell 0, 4: 2_0.5_4.3 
+Cell 0, 5: 
+Cell 0, 6: 
+Cell 0, 7: 
+Cell 0, 8: 
+Cell 0, 9: 
+Cell 1, 0: 
+Cell 1, 1: 
+Cell 1, 2: 
+Cell 1, 3: 
+Cell 1, 4: 
+Cell 1, 5: 
+Cell 1, 6: 
+Cell 1, 7: 5_1.9_7.5 
+Cell 1, 8: 
+Cell 1, 9: 
+Cell 2, 0: 
+Cell 2, 1: 
+Cell 2, 2: 3_2.0_2.2 
+Cell 2, 3: 6_2.9_3.1 
+Cell 2, 4: 
+Cell 2, 5: 4_2.0_5.5 
+Cell 2, 6: 
+Cell 2, 7: 
+Cell 2, 8: 
+Cell 2, 9: 
+Cell 3, 0: 
+Cell 3, 1: 
+Cell 3, 2: 
+Cell 3, 3: 
+Cell 3, 4: 
+Cell 3, 5: 9_3.5_5.1 
+Cell 3, 6: 10_3.7_6.7 
+Cell 3, 7: 
+Cell 3, 8: 
+Cell 3, 9: 
+Cell 4, 0: 7_4.0_0.9 
+Cell 4, 1: 11_4.8_1.7 
+Cell 4, 2: 
+Cell 4, 3: 8_4.0_3.3 
+Cell 4, 4: 12_4.5_4.1 
+Cell 4, 5: 13_4.9_5.6 
+Cell 4, 6: 
+Cell 4, 7: 14_4.3_7.4 
+Cell 4, 8: 
+Cell 4, 9: 
+Cell 5, 0: 
+Cell 5, 1: 15_5.5_1.6 
+Cell 5, 2: 
+Cell 5, 3: 
+Cell 5, 4: 16_5.3_4.9 
+Cell 5, 5: 
+Cell 5, 6: 
+Cell 5, 7: 
+Cell 5, 8: 
+Cell 5, 9: 17_5.7_9.3 
+Cell 6, 0: 
+Cell 6, 1: 
+Cell 6, 2: 
+Cell 6, 3: 
+Cell 6, 4: 18_6.6_4.8 
+Cell 6, 5: 
+Cell 6, 6: 
+Cell 6, 7: 
+Cell 6, 8: 
+Cell 6, 9: 
+Cell 7, 0: 
+Cell 7, 1: 
+Cell 7, 2: 19_7.5_2.4 
+Cell 7, 3: 
+Cell 7, 4: 
+Cell 7, 5: 
+Cell 7, 6: 
+Cell 7, 7: 20_7.7_7.4 
+Cell 7, 8: 
+Cell 7, 9: 
+Cell 8, 0: 21_8.9_0.9 
+Cell 8, 1: 
+Cell 8, 2: 
+Cell 8, 3: 22_8.4_3.2 
+Cell 8, 4: 
+Cell 8, 5: 23_8.8_5.8 
+Cell 8, 6: 
+Cell 8, 7: 
+Cell 8, 8: 
+Cell 8, 9: 
+Cell 9, 0: 
+Cell 9, 1: 
+Cell 9, 2: 
+Cell 9, 3: 
+Cell 9, 4: 
+Cell 9, 5: 
+Cell 9, 6: 
+Cell 9, 7: 
+Cell 9, 8: 
+Cell 9, 9: 
